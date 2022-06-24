@@ -38,7 +38,7 @@
   ],
   "license": "Apache-2.0",
   "engines": {
-    "node": ">= 14.18.3"
+    "node": ">= 14.19.2"
   },
   "dependencies": {
     "libxmljs": "0.19.7",
