@@ -1,6 +1,6 @@
 {
   "name": "@rlyle1179/blue-button-xml",
-  "version": "1.8.15",
+  "version": "1.8.16",
   "description": "Blue Button XML Parsing Infrastructure",
   "main": "./index.js",
   "browser": {
@@ -14,7 +14,8 @@
     "test": "grunt"
   },
   "author": "Dmitry Kachaev <dmitry@amida-tech.com>",
-  "contributors": [{
+  "contributors": [
+    {
       "name": "Matthew McCall",
       "email": "matt@amida-tech.com"
     },
