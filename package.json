@@ -14,8 +14,7 @@
     "test": "grunt"
   },
   "author": "Dmitry Kachaev <dmitry@amida-tech.com>",
-  "contributors": [
-    {
+  "contributors": [{
       "name": "Matthew McCall",
       "email": "matt@amida-tech.com"
     },
